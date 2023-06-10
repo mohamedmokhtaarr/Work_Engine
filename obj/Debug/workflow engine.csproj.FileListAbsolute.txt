@@ -1,0 +1,10 @@
+C:\Users\Medo w Mennah\source\repos\workflow engine\obj\Debug\workflow engine.csproj.AssemblyReference.cache
+C:\Users\Medo w Mennah\source\repos\workflow engine\obj\Debug\workflow engine.csproj.CoreCompileInputs.cache
+D:\workflow engine\bin\Debug\workflow engine.exe.config
+D:\workflow engine\bin\Debug\workflow engine.exe
+D:\workflow engine\bin\Debug\workflow engine.pdb
+D:\workflow engine\obj\Debug\workflow engine.csproj.AssemblyReference.cache
+D:\workflow engine\obj\Debug\workflow engine.csproj.SuggestedBindingRedirects.cache
+D:\workflow engine\obj\Debug\workflow engine.csproj.CoreCompileInputs.cache
+D:\workflow engine\obj\Debug\workflow engine.exe
+D:\workflow engine\obj\Debug\workflow engine.pdb
